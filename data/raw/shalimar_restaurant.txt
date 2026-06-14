@@ -1,0 +1,153 @@
+RESTAURANT: Shalimar Indian Cuisine
+LOCATION: Tampa, FL
+CUISINE: Indian
+
+CATEGORY: Appetizers
+
+ITEM: Samosas
+PRICE: $2.75
+DESCRIPTION: Crisp pastry stuffed with peas and potatoes served with chutney.
+TYPE: Vegetarian
+
+ITEM: Pakoras
+PRICE: $3.50
+DESCRIPTION: Mixed vegetable fritters in chickpea flour batter.
+TYPE: Vegetarian
+
+ITEM: Chicken Pakoras
+PRICE: $3.50
+DESCRIPTION: Boneless chicken chunks fried in chickpea flour batter.
+TYPE: Non-Vegetarian
+
+CATEGORY: Soups & Salads
+
+ITEM: Dal Soup
+PRICE: $2.25
+DESCRIPTION: Lentil soup with herbs and spices.
+TYPE: Vegetarian
+
+ITEM: Chicken Soup
+PRICE: $2.75
+DESCRIPTION: Chicken soup with peas.
+TYPE: Non-Vegetarian
+
+ITEM: House Salad
+PRICE: $2.25
+DESCRIPTION: Lettuce, tomatoes, onions, cucumbers.
+TYPE: Vegetarian
+
+CATEGORY: Tandoori Dishes
+
+ITEM: Tandoori Chicken
+PRICE: $9.95
+DESCRIPTION: Yogurt-marinated chicken grilled in clay oven.
+TYPE: Non-Vegetarian
+
+ITEM: Chicken Tikka
+PRICE: $10.95
+DESCRIPTION: Boneless chicken marinated and roasted in tandoor.
+TYPE: Non-Vegetarian
+
+ITEM: Seekh Kabab
+PRICE: $9.95
+DESCRIPTION: Ground lamb skewers with spices.
+TYPE: Non-Vegetarian
+
+CATEGORY: Chicken Curries
+
+ITEM: Butter Chicken
+PRICE: $14.95
+DESCRIPTION: Chicken cooked in tomato butter cream sauce.
+TYPE: Non-Vegetarian
+
+ITEM: Chicken Vindaloo
+PRICE: $12.50
+DESCRIPTION: Spicy chicken curry with vinegar-based sauce.
+TYPE: Non-Vegetarian
+
+ITEM: Chicken Korma
+PRICE: $12.95
+DESCRIPTION: Chicken in creamy cashew-almond sauce.
+TYPE: Non-Vegetarian
+
+CATEGORY: Lamb Curries
+
+ITEM: Lamb Rogan Josh
+PRICE: $11.50
+DESCRIPTION: Lamb curry with aromatic spices and yogurt.
+TYPE: Non-Vegetarian
+
+ITEM: Lamb Vindaloo
+PRICE: $12.50
+DESCRIPTION: Spicy lamb curry with potatoes.
+TYPE: Non-Vegetarian
+
+CATEGORY: Seafood
+
+ITEM: Shrimp Masala
+PRICE: $13.95
+DESCRIPTION: Shrimp cooked in tomato-onion gravy.
+TYPE: Non-Vegetarian
+
+ITEM: Fish Masala
+PRICE: $12.95
+DESCRIPTION: Fish cooked in curry tomato sauce.
+TYPE: Non-Vegetarian
+
+CATEGORY: Rice Specialties
+
+ITEM: Vegetable Biryani
+PRICE: $11.50
+DESCRIPTION: Basmati rice cooked with vegetables and spices.
+TYPE: Vegetarian
+
+ITEM: Chicken Biryani
+PRICE: $12.95
+DESCRIPTION: Spiced rice cooked with chicken.
+TYPE: Non-Vegetarian
+
+CATEGORY: Vegetarian Curries
+
+ITEM: Dal Makhani
+PRICE: $7.95
+DESCRIPTION: Slow-cooked lentils with butter and spices.
+TYPE: Vegetarian
+
+ITEM: Saag Paneer
+PRICE: $8.95
+DESCRIPTION: Spinach cooked with cottage cheese.
+TYPE: Vegetarian
+
+ITEM: Chana Masala
+PRICE: $7.95
+DESCRIPTION: Chickpeas cooked in spiced gravy.
+TYPE: Vegetarian
+
+CATEGORY: Breads
+
+ITEM: Naan
+PRICE: $2.25
+DESCRIPTION: Tandoor baked flatbread.
+TYPE: Vegetarian
+
+ITEM: Garlic Naan
+PRICE: $3.50
+DESCRIPTION: Naan with garlic and butter.
+TYPE: Vegetarian
+
+ITEM: Aloo Paratha
+PRICE: $3.50
+DESCRIPTION: Flatbread stuffed with spiced potatoes.
+TYPE: Vegetarian
+
+CATEGORY: Desserts
+
+ITEM: Gulab Jamun
+PRICE: $2.75
+DESCRIPTION: Milk-based fried dessert in syrup.
+TYPE: Vegetarian
+
+ITEM: Kheer
+PRICE: $3.50
+DESCRIPTION: Rice pudding with milk and almonds.
+TYPE: Vegetarian

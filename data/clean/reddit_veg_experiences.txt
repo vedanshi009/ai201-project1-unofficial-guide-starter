@@ -1,0 +1,62 @@
+SOURCE: Reddit
+TITLE: Vegetarian experience in Florida restaurants (social + food insights)
+CATEGORY: Travel / Dietary Experience
+
+------------------------------------------------------------
+
+SUMMARY:
+User describes experiencing mild social discomfort and perceived judgment when ordering vegetarian meals in Florida restaurants. Discussion includes regional vegetarian availability and cultural attitudes toward plant-based eating.
+
+------------------------------------------------------------
+
+LOCATION CONTEXT:
+Florida (multiple regions mentioned: South Florida, North Florida, beach towns, St. Augustine, Tampa Bay)
+
+------------------------------------------------------------
+
+KEY THEMES:
+
+1. SOCIAL EXPERIENCE / PERCEIVED JUDGMENT
+- Some vegetarians report feeling judged or “questioned” when ordering plant-based meals in Florida.
+- Examples include raised eyebrows or surprised reactions from servers or coworkers.
+- Other users report no judgment and consider it normal restaurant behavior.
+- Consensus: experiences vary widely depending on location and social context.
+
+------------------------------------------------------------
+
+2. VEGETARIAN AVAILABILITY IN FLORIDA
+- South Florida (Miami / Broward / West Palm area): high availability of vegetarian and vegan options.
+- Tampa Bay / St. Petersburg / Jacksonville / Orlando: generally good and improving plant-based options.
+- Smaller towns / less urban areas: more limited options reported by some users.
+
+------------------------------------------------------------
+
+3. COMMON VEGETARIAN OPTIONS FOUND
+- Thai restaurants often offer vegetarian-friendly meals (but may still include fish sauce unless specified).
+- Greek restaurants frequently offer falafel and mezze options.
+- Many restaurants now offer plant-based or vegan burger alternatives.
+- Indian and Middle Eastern cuisine mentioned as reliable vegetarian-friendly options.
+
+------------------------------------------------------------
+
+4. HIDDEN NON-VEGETARIAN INGREDIENT RISKS (important insight)
+- Fish sauce commonly used in Thai/Vietnamese dishes
+- Shrimp paste in some curries and sauces
+- Anchovies in Caesar dressing and Worcestershire sauce
+- Broth bases may be non-vegetarian in soups and Asian dishes
+- Some dishes labeled “vegetarian” may still contain fish-based ingredients unless clarified
+
+------------------------------------------------------------
+
+5. GENERAL INSIGHT
+- Florida is regionally inconsistent for vegetarian experiences:
+  - Urban + tourist-heavy areas → high accessibility and acceptance
+  - Smaller / traditional areas → fewer options and occasional social discomfort
+- Most “judgment” is perceived rather than intentional hostility (service ambiguity, surprise, or curiosity)
+
+------------------------------------------------------------
+
+KEY TAKEAWAY FOR RAG SYSTEM:
+- Florida has strong regional variation in vegetarian availability.
+- Hidden animal ingredients (fish sauce, broth, anchovy-based sauces) are the most important dietary risk.
+- User experiences are socially subjective and should be treated as sentiment, not fact.

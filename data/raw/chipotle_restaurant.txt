@@ -1,0 +1,157 @@
+RESTAURANT: Chipotle (Tampa, Mexican)
+
+ITEM: Burrito
+PRICE: N/A
+DESCRIPTION: Flour tortilla filled with choice of meat or sofritas, rice, beans or fajita veggies, topped with guac, salsa, queso, sour cream or cheese
+
+ITEM: Burrito Bowl
+PRICE: N/A
+DESCRIPTION: Bowl with rice, beans or fajita veggies and choice of meat or sofritas, topped with guac, salsa, queso, sour cream or cheese
+
+ITEM: Quesadilla
+PRICE: N/A
+DESCRIPTION: Cheese in flour tortilla with choice of meat, sofritas or fajita veggies and three sides
+
+ITEM: Salad
+PRICE: N/A
+DESCRIPTION: Supergreens lettuce blend with choice of meat or sofritas and customizable toppings
+
+ITEM: Tacos
+PRICE: N/A
+DESCRIPTION: Soft or hard shell tacos with choice of meat, sofritas or guacamole and up to five toppings
+
+ITEM: Kid's Build Your Own
+PRICE: N/A
+DESCRIPTION: Kid’s meal with choice of protein, toppings, tortillas, plus fruit or chips and drink
+
+ITEM: Kid's Quesadilla
+PRICE: N/A
+DESCRIPTION: Quesadilla served with rice and beans, plus fruit or chips and drink
+
+ITEM: Build-Your-Own Group Meal
+PRICE: N/A
+DESCRIPTION: Serves 4-6 people. Includes protein choice, tortillas, chips, rice, beans, dips, guac or queso and salsa
+
+ITEM: 2 Large Chips & 3 Large Sides
+PRICE: N/A
+DESCRIPTION: Large chips with queso, guacamole and salsa
+
+ITEM: Double High Protein Bowl
+PRICE: $17.05
+DESCRIPTION: Double chicken, rice, beans, fajita veggies, salsa, cheese and lettuce
+
+ITEM: High Protein Bowl
+PRICE: $12.15
+DESCRIPTION: Chicken, brown rice, beans, fajita veggies, corn salsa, tomato salsa and lettuce
+
+ITEM: High Protein Taco
+PRICE: $4.55
+DESCRIPTION: Chicken taco with fajita veggies, salsa, cheese and lettuce
+
+ITEM: High Protein Chicken Cup
+PRICE: $4.90
+DESCRIPTION: Side of grilled chicken high protein portion
+
+ITEM: High Protein Steak Cup
+PRICE: $7.15
+DESCRIPTION: Side of grilled steak high protein portion
+
+ITEM: High Protein Low Calorie Bowl
+PRICE: $15.75
+DESCRIPTION: Chicken, supergreens lettuce, fajita veggies, salsa and guacamole
+
+ITEM: Double High Protein Burrito
+PRICE: $17.05
+DESCRIPTION: Double chicken burrito with veggies, salsa, cheese and lettuce
+
+ITEM: High Protein Honey Chicken Cup
+PRICE: $5.65
+DESCRIPTION: Side of Chipotle honey chicken
+
+ITEM: Chips
+PRICE: $2.45
+DESCRIPTION: Tortilla chips
+
+ITEM: Chips & Guacamole
+PRICE: $6.05
+DESCRIPTION: Chips served with guacamole
+
+ITEM: Chips & Queso Blanco
+PRICE: $6.05
+DESCRIPTION: Chips served with queso blanco
+
+ITEM: Large Chips & Large Guacamole
+PRICE: $10.65
+DESCRIPTION: Large chips with large guacamole
+
+ITEM: Large Chips & Large Queso Blanco
+PRICE: $10.65
+DESCRIPTION: Large chips with large queso blanco
+
+ITEM: Side Of Chicken
+PRICE: $4.90
+DESCRIPTION: Grilled chicken side portion
+
+ITEM: Side Of Steak
+PRICE: $7.15
+DESCRIPTION: Grilled steak side portion
+
+ITEM: Chips & Salsa
+PRICE: $3.00
+DESCRIPTION: Chips with salsa
+
+ITEM: Chips & Roasted Chili Corn Salsa
+PRICE: $3.00
+DESCRIPTION: Chips with corn salsa
+
+ITEM: Chips & Tomatillo Red Salsa
+PRICE: $3.00
+DESCRIPTION: Chips with red salsa
+
+ITEM: Chips & Tomatillo Green Salsa
+PRICE: $3.00
+DESCRIPTION: Chips with green salsa
+
+ITEM: Mexican Coca-Cola
+PRICE: $4.50
+DESCRIPTION: Bottled Coca-Cola made with cane sugar
+
+ITEM: Mexican Sprite
+PRICE: $4.50
+DESCRIPTION: Bottled Sprite
+
+ITEM: Jarritos Guava
+PRICE: $4.50
+DESCRIPTION: Guava flavored soda
+
+ITEM: Jarritos Mango
+PRICE: $4.50
+DESCRIPTION: Mango flavored soda
+
+ITEM: Poppi Orange
+PRICE: $4.15
+DESCRIPTION: Prebiotic orange soda
+
+ITEM: Poppi Strawberry Lemon
+PRICE: $4.15
+DESCRIPTION: Prebiotic strawberry lemon soda
+
+ITEM: Coke Zero
+PRICE: $4.50
+DESCRIPTION: Zero sugar cola
+
+ITEM: San Pellegrino Sparkling
+PRICE: $4.15
+DESCRIPTION: Sparkling mineral water
+
+ITEM: Tractor Organic Lemonade
+PRICE: $4.55
+DESCRIPTION: Organic lemonade
+
+ITEM: Apple Juice
+PRICE: $4.55
+DESCRIPTION: Apple juice
+
+ITEM: Open Water Still
+PRICE: $4.10
+DESCRIPTION: Still bottled water

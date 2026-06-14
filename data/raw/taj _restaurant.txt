@@ -1,0 +1,78 @@
+RESTAURANT: Taj Indian Cuisine
+LOCATION: Tampa, FL
+SOURCE: allmenus.com/fl/tampa/46387-taj-indian-cuisine
+CUISINE: Indian
+
+CATEGORY: Beverages
+
+ITEM: Fountain Drink
+PRICE: $1.69
+DESCRIPTION: Jasmine iced tea and soft drinks available.
+
+ITEM: Masala Chai Latte
+PRICE: $2.75
+DESCRIPTION: Flavored with cardamom, black pepper, spices, served hot with milk.
+
+ITEM: Lassi
+PRICE: $2.99
+DESCRIPTION: Yogurt-based drink blended with fruit pulp.
+
+CATEGORY: GrubHub Specials
+
+ITEM: 4 Wraps Special
+PRICE: $16.00
+DESCRIPTION: Choose 4 wraps.
+
+ITEM: Feast for 2
+PRICE: $20.00
+DESCRIPTION: Two entrees with basmati rice, naan, samosas, and mango lassi.
+
+CATEGORY: Salads
+
+ITEM: Tunduree Salad
+PRICE: $5.99
+DESCRIPTION: Chicken fillets over salad with ranch dressing.
+
+CATEGORY: Curries
+
+ITEM: Shrimp Curry with Side
+PRICE: $7.99
+DESCRIPTION: Shrimp cooked in spices with curry leaves served with rice or naan.
+
+ITEM: Chicken Tikka Masala
+PRICE: $6.99
+DESCRIPTION: Chicken in creamy tomato masala sauce.
+
+CATEGORY: Vegetarian
+
+ITEM: Dhal Curry
+PRICE: $6.49
+DESCRIPTION: Lentils cooked with spices and tomatoes. Vegan.
+
+ITEM: Channa Masala
+PRICE: $6.99
+DESCRIPTION: Chickpeas cooked in tamarind and spices. Vegan.
+
+ITEM: Spinach and Curry Tofu
+PRICE: $6.99
+DESCRIPTION: Spinach and tofu cooked in spices.
+
+CATEGORY: Accompaniments
+
+ITEM: Basmati Rice
+PRICE: $1.50
+DESCRIPTION: Clove-spiced steamed rice.
+
+ITEM: Garlic Naan
+PRICE: $2.50
+DESCRIPTION: Flatbread topped with garlic and cilantro.
+
+CATEGORY: Desserts
+
+ITEM: Gulab Jamun
+PRICE: $3.50
+DESCRIPTION: Milk-based fried dessert soaked in syrup.
+
+ITEM: Kulfi Ice Cream
+PRICE: $2.49
+DESCRIPTION: Traditional Indian ice cream with cream and fruit.

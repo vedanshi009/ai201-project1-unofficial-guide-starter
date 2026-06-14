@@ -1,0 +1,200 @@
+CATEGORY: Lassi and Juice
+
+ITEM: Mango Juice
+PRICE: $2.95
+DESCRIPTION: Sweet mango-based juice.
+TYPE: Vegetarian
+
+ITEM: Sweet Lassi
+PRICE: $1.95
+DESCRIPTION: Yogurt-based sweet drink.
+TYPE: Vegetarian
+
+ITEM: Salt Lassi
+PRICE: $1.95
+DESCRIPTION: Savory yogurt drink.
+TYPE: Vegetarian
+
+ITEM: Mango Lassi
+PRICE: $2.95
+DESCRIPTION: Yogurt blended with mango pulp.
+TYPE: Vegetarian
+
+CATEGORY: Cold Drinks
+
+ITEM: Fountain Drink
+PRICE: $1.50
+DESCRIPTION: Soft drink.
+TYPE: Vegetarian
+
+ITEM: Mineral Water
+PRICE: $1.00
+DESCRIPTION: Bottled water.
+TYPE: Vegetarian
+
+ITEM: Iced Tea
+PRICE: $1.50
+DESCRIPTION: Chilled tea beverage.
+TYPE: Vegetarian
+
+CATEGORY: Hot Drinks
+
+ITEM: Chai
+PRICE: $1.50
+DESCRIPTION: Spiced tea with milk.
+TYPE: Vegetarian
+
+ITEM: Coffee
+PRICE: $2.00
+DESCRIPTION: Hot brewed coffee.
+TYPE: Vegetarian
+
+ITEM: Milk
+PRICE: $2.00
+DESCRIPTION: Dairy milk.
+TYPE: Vegetarian
+
+CATEGORY: Vegetarian Appetizers
+
+ITEM: Onion Pakoda
+PRICE: $5.95
+DESCRIPTION: Onion fritters in chickpea batter.
+TYPE: Vegetarian
+
+ITEM: Gobi Manchurian
+PRICE: $7.95
+DESCRIPTION: Fried cauliflower in Indo-Chinese sauce.
+TYPE: Vegetarian
+
+ITEM: Chili Paneer
+PRICE: $7.95
+DESCRIPTION: Paneer cooked with chili sauce.
+TYPE: Vegetarian
+
+CATEGORY: Non-Vegetarian Appetizers
+
+ITEM: Chicken 65 Appetizer
+PRICE: $8.95
+DESCRIPTION: Spicy fried chicken.
+TYPE: Non-Vegetarian
+
+ITEM: Pepper Chicken
+PRICE: $8.95
+DESCRIPTION: Chicken cooked with pepper and spices.
+TYPE: Non-Vegetarian
+
+ITEM: Shrimp 65
+PRICE: $9.95
+DESCRIPTION: Spicy fried shrimp.
+TYPE: Non-Vegetarian
+
+CATEGORY: South Specialties
+
+ITEM: Sada Dosa
+PRICE: $5.95
+DESCRIPTION: Plain rice crepe.
+TYPE: Vegetarian
+
+ITEM: Mysore Masala Dosa
+PRICE: $7.95
+DESCRIPTION: Spiced dosa with potato filling.
+TYPE: Vegetarian
+
+ITEM: Idli
+PRICE: $5.95
+DESCRIPTION: Steamed rice cakes.
+TYPE: Vegetarian
+
+CATEGORY: North Specialties
+
+ITEM: Chole Bhatura
+PRICE: $7.95
+DESCRIPTION: Chickpea curry with fried bread.
+TYPE: Vegetarian
+
+ITEM: Aloo Paratha
+PRICE: $7.95
+DESCRIPTION: Stuffed potato flatbread.
+TYPE: Vegetarian
+
+CATEGORY: Chicken a La Carte
+
+ITEM: Butter Chicken
+PRICE: $12.95
+DESCRIPTION: Chicken in creamy tomato sauce.
+TYPE: Non-Vegetarian
+
+ITEM: Chicken Vindaloo
+PRICE: $11.95
+DESCRIPTION: Spicy chicken curry with vinegar-based sauce.
+TYPE: Non-Vegetarian
+
+ITEM: Chicken Tikka Masala
+PRICE: $12.95
+DESCRIPTION: Grilled chicken in spiced tomato cream sauce.
+TYPE: Non-Vegetarian
+
+CATEGORY: Lamb a La Carte
+
+ITEM: Rogan Josh
+PRICE: $11.95
+DESCRIPTION: Slow-cooked lamb curry.
+TYPE: Non-Vegetarian
+
+ITEM: Lamb Korma
+PRICE: $11.95
+DESCRIPTION: Lamb in creamy cashew sauce.
+TYPE: Non-Vegetarian
+
+CATEGORY: Seafood a La Carte
+
+ITEM: Shrimp Masala
+PRICE: $12.95
+DESCRIPTION: Shrimp cooked in spiced gravy.
+TYPE: Non-Vegetarian
+
+ITEM: Fish Masala
+PRICE: $12.95
+DESCRIPTION: Fish in onion-tomato curry.
+TYPE: Non-Vegetarian
+
+CATEGORY: Vegetarian a La Carte
+
+ITEM: Chana Masala
+PRICE: $10.95
+DESCRIPTION: Chickpeas in spiced gravy.
+TYPE: Vegetarian
+
+ITEM: Palak Paneer
+PRICE: $11.95
+DESCRIPTION: Spinach cooked with cottage cheese.
+TYPE: Vegetarian
+
+ITEM: Dal Makhani
+PRICE: $10.95
+DESCRIPTION: Creamy black lentil curry.
+TYPE: Vegetarian
+
+CATEGORY: Indian Bread
+
+ITEM: Naan
+PRICE: $1.50
+DESCRIPTION: Soft tandoor bread.
+TYPE: Vegetarian
+
+ITEM: Garlic Naan
+PRICE: $2.50
+DESCRIPTION: Naan with garlic and butter.
+TYPE: Vegetarian
+
+CATEGORY: Desserts
+
+ITEM: Gulab Jamun
+PRICE: $3.00
+DESCRIPTION: Fried milk dumplings in syrup.
+TYPE: Vegetarian
+
+ITEM: Kheer
+PRICE: $3.00
+DESCRIPTION: Rice pudding.
+TYPE: Vegetarian

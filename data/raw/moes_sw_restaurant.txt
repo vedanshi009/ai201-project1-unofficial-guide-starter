@@ -1,0 +1,117 @@
+RESTAURANT: Moe's Southwest Grill
+
+ITEM: Close Talker Salad
+PRICE: N/A
+DESCRIPTION: Salad with choice of protein, beans, pico de gallo, shredded cheese and dressing
+
+ITEM: Personal Trainer Salad
+PRICE: $6.69
+DESCRIPTION: Romaine lettuce, beans, pico de gallo and shredded cheese
+
+ITEM: Homewrecker Burrito
+PRICE: N/A
+DESCRIPTION: 12" tortilla with protein, rice, beans, cheese, pico de gallo and guacamole
+
+ITEM: Homewrecker Jr. Burrito
+PRICE: N/A
+DESCRIPTION: Smaller burrito with protein, rice, beans, cheese, pico de gallo and guacamole
+
+ITEM: Joey Bag of Donuts Burrito
+PRICE: N/A
+DESCRIPTION: Burrito with protein, rice, beans, cheese and pico de gallo
+
+ITEM: Joey Jr. Burrito
+PRICE: N/A
+DESCRIPTION: Smaller burrito with protein, rice, beans, cheese and pico de gallo
+
+ITEM: Art Vandalay Burrito
+PRICE: $6.59
+DESCRIPTION: Beans, rice, cheese, pico de gallo, lettuce, sour cream and guacamole (vegetarian)
+
+ITEM: Art Vandalay Jr. Burrito
+PRICE: $5.99
+DESCRIPTION: Beans, rice, cheese, pico de gallo, lettuce, sour cream and guacamole (vegetarian)
+
+ITEM: Earmuffs Burrito Bowl
+PRICE: $8.69+
+DESCRIPTION: Bowl with protein, rice, beans, cheese, pico de gallo and guacamole
+
+ITEM: Band Camp Burrito Bowl
+PRICE: $7.39
+DESCRIPTION: Bowl with rice, beans, cheese, pico de gallo and guacamole
+
+ITEM: Unanimous Decision Taco
+PRICE: $2.99
+DESCRIPTION: Beans, cheese, pico de gallo, lettuce and guacamole
+
+ITEM: 2 Tacos
+PRICE: N/A
+DESCRIPTION: Choice of 2 tacos
+
+ITEM: 3 Tacos
+PRICE: N/A
+DESCRIPTION: Choice of 3 tacos
+
+ITEM: 3 Three Amigos Tacos
+PRICE: $10.39
+DESCRIPTION: 3 tacos with protein options, cilantro, chips and salsa
+
+ITEM: 2 Three Amigos Tacos
+PRICE: $8.09
+DESCRIPTION: 2 tacos with protein options, cilantro, chips and salsa
+
+ITEM: John Coctostan Quesadilla
+PRICE: N/A
+DESCRIPTION: Quesadilla with grilled meat, beans, cheese, pico de gallo and sour cream
+
+ITEM: Super Kingpin Quesadilla
+PRICE: $5.89
+DESCRIPTION: Cheese quesadilla with pico de gallo and sour cream
+
+ITEM: Chicken Club Quesadilla
+PRICE: $10.39
+DESCRIPTION: Quesadilla with chicken, bacon and chipotle ranch
+
+ITEM: Alright, Alright, Alright Nachos
+PRICE: N/A
+DESCRIPTION: Chips with protein, beans, queso and pico de gallo
+
+ITEM: Ruprict Nachos
+PRICE: $6.49
+DESCRIPTION: Nachos with beans, queso and pico de gallo
+
+ITEM: Wrong Doug Stack
+PRICE: N/A
+DESCRIPTION: Beans, cheese, queso and pico de gallo stack
+
+ITEM: Julia Gulia Stack
+PRICE: $7.39
+DESCRIPTION: Beans, cheese, queso and pico de gallo stack (vegetarian)
+
+ITEM: Queso
+PRICE: $1.99+
+DESCRIPTION: Cheese dip
+
+ITEM: Guacamole
+PRICE: $1.99+
+DESCRIPTION: Mashed avocado dip
+
+ITEM: Side of Pico de Gallo
+PRICE: $0.95+
+DESCRIPTION: Fresh salsa
+
+ITEM: Cookie
+PRICE: $1.19
+DESCRIPTION: Dessert cookie
+
+ITEM: Moo Moo Mr Cow
+PRICE: $6.09
+DESCRIPTION: Kid-sized burrito with meat, beans, rice, cheese and pico de gallo
+
+ITEM: Power Wagon
+PRICE: $6.09
+DESCRIPTION: Taco with meat, cheese and lettuce
+
+ITEM: Mini Masterpiece
+PRICE: $6.09
+DESCRIPTION: Kid-sized cheese quesadilla with pico de gallo and sour cream

@@ -1,0 +1,152 @@
+RESTAURANT: Tunduree
+LOCATION: Tampa, FL
+SOURCE: allmenus.com/fl/tampa/46387-taj-indian-cuisine
+CUISINE: Indian
+
+ITEM: Fountain Drink
+PRICE: $1.69+
+DESCRIPTION: Soft drink
+
+ITEM: Jasmine Iced Tea
+PRICE: $1.69+
+DESCRIPTION: Organic green jasmine tea
+
+ITEM: Masala Chai Latte
+PRICE: $2.75
+DESCRIPTION: Flavored with cardamom, black pepper and spices, served hot with steamed milk and sugar
+
+ITEM: Lassi
+PRICE: $2.99
+DESCRIPTION: Yogurt drink blended with fruit pulp
+
+ITEM: 4 Wraps Special
+PRICE: $16.00
+DESCRIPTION: Choose 4 wraps
+
+ITEM: Feast for 2
+PRICE: $20.00
+DESCRIPTION: Two entrees with basmati rice and naan, 6 samosas, and 2 mango lassi drinks (pickup only)
+
+ITEM: Tunduree Salad
+PRICE: $5.99
+DESCRIPTION: Grilled chicken over lettuce, tomatoes, cucumbers, carrots, onions with ranch dressing
+
+ITEM: Shrimp Curry with Side
+PRICE: $7.99
+DESCRIPTION: Shrimp cooked with spices, tomatoes, curry leaves; served with raita, salad, and rice or naan
+
+ITEM: Lamb Curry Vindaloo with Side
+PRICE: $7.99
+DESCRIPTION: Spicy lamb curry with potatoes; served with raita, salad, and rice or naan
+
+ITEM: Chicken Saag with Side
+PRICE: $7.99
+DESCRIPTION: Spinach curry with chicken cubes
+
+ITEM: Chicken Korma with Side
+PRICE: $6.99
+DESCRIPTION: Chicken in mild curry sauce with cashews and cardamom
+
+ITEM: Chicken Tikka Masala with Side
+PRICE: $6.99
+DESCRIPTION: Chicken in rich masala sauce
+
+ITEM: Butter Chicken Curry with Side
+PRICE: $6.99
+DESCRIPTION: Chicken in tomato butter sauce
+
+ITEM: Spinach and Meatball Curry with Side
+PRICE: $6.99
+DESCRIPTION: Beef meatballs cooked with spinach and spices
+
+ITEM: Dhal Curry
+PRICE: $6.49
+DESCRIPTION: Yellow lentils cooked with tomatoes and spices (vegan)
+
+ITEM: Vegetable Curry
+PRICE: $6.49
+DESCRIPTION: Seasonal vegetables cooked with herbs and spices
+
+ITEM: Channa Masala
+PRICE: $6.99
+DESCRIPTION: Chickpeas in spiced tamarind sauce (vegan)
+
+ITEM: Spinach and Curry Tofu
+PRICE: $6.99
+DESCRIPTION: Spinach and tofu cooked with spices
+
+ITEM: Grilled Tunduree Chicken
+PRICE: $7.99
+DESCRIPTION: Chicken marinated in yogurt and spices, grilled and served with salad and mint sauce
+
+ITEM: Honey Glazed Tunduree Chicken
+PRICE: $7.99
+DESCRIPTION: Grilled chicken with honey glaze
+
+ITEM: Chicken Biriyani
+PRICE: $7.99
+DESCRIPTION: Chicken cooked with basmati rice and spices
+
+ITEM: Channa Masala Wrap
+PRICE: $4.00
+DESCRIPTION: Chickpeas in naan wrap with vegetables (vegan)
+
+ITEM: Vegetable Curry Wrap
+PRICE: $4.50
+DESCRIPTION: Vegetable curry in naan wrap
+
+ITEM: Tunduree Chicken Wrap
+PRICE: $4.00
+DESCRIPTION: Grilled chicken in naan wrap with vegetables
+
+ITEM: Chicken Tikka Masala Wrap
+PRICE: $4.00
+DESCRIPTION: Chicken tikka masala in naan wrap
+
+ITEM: Butter Chicken Wrap
+PRICE: $4.00
+DESCRIPTION: Butter chicken in naan wrap
+
+ITEM: Clove Spiced Basmati Rice
+PRICE: $1.50
+DESCRIPTION: Basmati rice with cloves
+
+ITEM: Tunduree Naan
+PRICE: $1.50
+DESCRIPTION: Butter-grilled naan
+
+ITEM: Garlic Tunduree Naan
+PRICE: $2.50
+DESCRIPTION: Naan with garlic and cilantro
+
+ITEM: Aloo Parantha
+PRICE: $4.50
+DESCRIPTION: Potato-stuffed flatbread (vegan)
+
+ITEM: Spicy Lentil Paratha
+PRICE: $4.50
+DESCRIPTION: Lentil-stuffed flatbread (vegan)
+
+ITEM: Samosa
+PRICE: $4.99
+DESCRIPTION: Pastry filled with vegetables or spinach and cheese
+
+ITEM: Kid's Grilled Cheese Naanwich
+PRICE: $3.99
+DESCRIPTION: Naan with melted American cheese
+
+ITEM: Kid's Tunduree Nugget Meal
+PRICE: $6.49
+DESCRIPTION: Grilled chicken nuggets with salad and sauce
+
+ITEM: Rice Pudding (Kheer)
+PRICE: $1.25
+DESCRIPTION: Milk pudding with nuts and raisins
+
+ITEM: Gulab Jamun
+PRICE: $3.50
+DESCRIPTION: Milk-based dessert balls in syrup
+
+ITEM: Kulfi Ice Cream
+PRICE: $2.49
+DESCRIPTION: Traditional Indian ice cream

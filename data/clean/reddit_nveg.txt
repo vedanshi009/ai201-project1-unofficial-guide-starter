@@ -1,0 +1,118 @@
+SOURCE: Reddit r/vegetarian
+TITLE: Hidden animal ingredients that new vegetarians should be aware of
+
+TOPIC: Hidden animal-derived ingredients in everyday foods
+
+------------------------------------------------------------
+
+CATEGORY: Dairy & Cheese
+
+ITEM: Parmesan cheese and some hard cheeses
+DESCRIPTION: May use animal-derived rennet from calf stomach lining. Some cheeses use microbial or vegetarian rennet, but labeling is inconsistent.
+
+ITEM: Cheese (general)
+DESCRIPTION: Can contain rennet listed as "enzymes" which may be animal-derived unless explicitly labeled vegetarian.
+
+------------------------------------------------------------
+
+CATEGORY: Sweets & Confectionery
+
+ITEM: Gelatin in candies and desserts
+DESCRIPTION: Common in gummy bears, jelly candies, marshmallows, mousse, and some frostings. Derived from animal collagen.
+
+ITEM: Confectioner's glaze / shellac
+DESCRIPTION: Used in candies and coatings; derived from insects.
+
+ITEM: Carmine (red dye)
+DESCRIPTION: Food coloring derived from cochineal insects, used in some red/pink foods.
+
+------------------------------------------------------------
+
+CATEGORY: Sauces & Condiments
+
+ITEM: Caesar dressing
+DESCRIPTION: Often contains anchovies (fish).
+
+ITEM: Worcestershire sauce
+DESCRIPTION: Contains anchovies/fish-based ingredients.
+
+ITEM: BBQ sauces
+DESCRIPTION: Some versions contain fish-derived ingredients or non-vegetarian flavor bases.
+
+ITEM: Thousand Island dressing
+DESCRIPTION: May contain Worcestershire sauce (anchovies).
+
+------------------------------------------------------------
+
+CATEGORY: Asian Cuisine Hidden Ingredients
+
+ITEM: Fish sauce (common in Thai/Vietnamese food)
+DESCRIPTION: Used as base flavor in many dishes like pad thai and curries.
+
+ITEM: Oyster sauce
+DESCRIPTION: Contains oyster extract, common in stir-fry dishes.
+
+ITEM: Shrimp paste (common in Thai red curry)
+DESCRIPTION: Used in curry bases and sauces.
+
+ITEM: Dashi (Japanese stock)
+DESCRIPTION: Often made from bonito flakes or fish; used in soups, miso, and sauces.
+
+ITEM: Kimchi (some versions)
+DESCRIPTION: May contain shrimp or fish paste depending on preparation.
+
+------------------------------------------------------------
+
+CATEGORY: Processed Foods
+
+ITEM: Refried beans (traditional versions)
+DESCRIPTION: Sometimes cooked with lard (animal fat).
+
+ITEM: Canned soups
+DESCRIPTION: May contain animal broth or "natural flavors" derived from meat.
+
+ITEM: White sugar
+DESCRIPTION: Sometimes processed using bone char in refining.
+
+ITEM: Apple juice
+DESCRIPTION: Can be filtered using gelatin (not always labeled).
+
+ITEM: Cream cheese
+DESCRIPTION: Sometimes contains gelatin for texture.
+
+------------------------------------------------------------
+
+CATEGORY: Wine & Alcohol
+
+ITEM: Wine
+DESCRIPTION: Some wines use animal-derived fining agents (gelatin, fish bladder/isinglass, egg whites) during clarification.
+
+ITEM: Beer
+DESCRIPTION: Some beers use isinglass (fish-derived) in filtering.
+
+------------------------------------------------------------
+
+CATEGORY: Fast Food & Misc
+
+ITEM: French fries (some chains)
+DESCRIPTION: May contain beef flavoring or be fried in shared animal fat depending on restaurant.
+
+ITEM: McDonald's fries (region dependent)
+DESCRIPTION: Historically contained animal-derived flavoring in some regions.
+
+------------------------------------------------------------
+
+CATEGORY: Surprising Everyday Items
+
+ITEM: Gelatin in apple juice clarification
+DESCRIPTION: Used during processing but not always listed on label.
+
+ITEM: Animal-derived ingredients in "natural flavors"
+DESCRIPTION: Can include hidden animal-derived components depending on product.
+
+------------------------------------------------------------
+
+NOTES:
+- Many ingredients are not clearly labeled in the US.
+- Vegetarian labeling varies widely by brand and country.
+- Checking ingredient lists or vegetarian certification helps reduce uncertainty.

@@ -1,0 +1,235 @@
+RESTAURANT: Maya's
+SOURCE: Allmenus
+
+Menu
+
+SECTION: Desayuno / Breakfast
+ITEM: Coffee
+PRICE: $1.00
+DESCRIPTION:
+
+ITEM: Orange Juice
+PRICE: $1.99
+DESCRIPTION:
+
+ITEM: Huevos Rancheros
+PRICE: $5.50
+DESCRIPTION: Two fried eggs on corn tortillas with spicy Mexican sauce, served with toast and fries
+
+ITEM: Maya's Breakfast
+PRICE: $5.50
+DESCRIPTION: Burrito with scrambled eggs, onions, peppers, ham or chorizo, served with toast and fries
+
+ITEM: Huevos a la Mexicana
+PRICE: $5.50
+DESCRIPTION: Scrambled eggs with jalapenos and onion, served with toast and fries
+
+ITEM: Desayuno de la Casa
+PRICE: $5.50
+DESCRIPTION: Egg quesadilla with onion, peppers and cheese, served with toast and fries
+
+ITEM: Huevos con Chorizo
+PRICE: $5.50
+DESCRIPTION: Scrambled eggs with chorizo, served with toast and fries
+
+ITEM: Desayuno Latino
+PRICE: $5.50
+DESCRIPTION: Fried eggs with ham and fries served with toast
+
+ITEM: Huevos Estrellados
+PRICE: $5.50
+DESCRIPTION: Fried eggs with ham and fries served with toast
+
+ITEM: Jalapeno Breakfast
+PRICE: $5.50
+DESCRIPTION: Scrambled eggs with jalapeno sausage, served with toast and fries
+
+ITEM: Huevos con Tocino
+PRICE: $5.50
+DESCRIPTION: Fried eggs and bacon served with fries and toast
+
+
+SECTION: Appetizers
+ITEM: Botana Maya's
+PRICE: $9.99
+DESCRIPTION: Breaded shrimp, spicy wings and empanadas
+
+ITEM: Nachos
+PRICE: $4.50
+DESCRIPTION: Corn chips topped with tomatoes, melted cheese, jalapenos and beans
+
+ITEM: Tostadas
+PRICE: $4.50
+DESCRIPTION: Crispy corn tortillas with chicken or beef, salad, sour cream and cheese
+
+ITEM: Guacamole (Seasonal)
+PRICE: $4.50
+DESCRIPTION: Fresh avocado served on lettuce
+
+ITEM: Choriqueso
+PRICE: $5.50
+DESCRIPTION: Mexican sausage and mozzarella melted on flour tortillas
+
+ITEM: Deditos de Queso
+PRICE: $4.50
+DESCRIPTION: Cheese sticks served with mayo ketchup
+
+
+SECTION: Soups / Salads
+ITEM: Caldo de Res
+PRICE: $7.99
+DESCRIPTION: Beef soup with vegetables
+
+ITEM: Caldo de Pollo
+PRICE: $7.99
+DESCRIPTION: Chicken soup with vegetables
+
+ITEM: Caldo de Camaron
+PRICE: $10.50
+DESCRIPTION: Shrimp soup
+
+ITEM: Sopa de Mariscos
+PRICE: $11.50
+DESCRIPTION: Seafood soup
+
+ITEM: Menudo
+PRICE: $7.99
+DESCRIPTION: Beef tripe soup served with tortilla
+
+ITEM: Taco Salad
+PRICE: $6.25
+DESCRIPTION: Fried tortilla shell with meat, lettuce, beans, cheese, sour cream and guacamole
+
+ITEM: Ensalada de Pollo
+PRICE: $6.50
+DESCRIPTION: Chicken salad with lettuce, tomatoes, onion and eggs
+
+ITEM: Siete Potencias
+PRICE: $12.99
+DESCRIPTION: Mixed seafood broth with shrimp, lobster, octopus, fish and more
+
+
+SECTION: Sandwiches
+ITEM: Tuna Fish
+PRICE: $6.50
+DESCRIPTION:
+
+ITEM: Tripleta
+PRICE: $6.75
+DESCRIPTION:
+
+ITEM: Cubano
+PRICE: $6.00
+DESCRIPTION:
+
+ITEM: Tortilla
+PRICE: $4.50
+DESCRIPTION:
+
+ITEM: Bistec
+PRICE: $6.00
+DESCRIPTION:
+
+ITEM: Jamon y Queso
+PRICE: $4.50
+DESCRIPTION:
+
+ITEM: Pernil
+PRICE: $6.99
+DESCRIPTION:
+
+
+SECTION: Tacos
+ITEM: Camaron (Shrimp)
+PRICE: $6.00
+DESCRIPTION:
+
+ITEM: Al Pastor
+PRICE: $5.25
+DESCRIPTION:
+
+ITEM: Carnitas
+PRICE: $4.50
+DESCRIPTION:
+
+ITEM: Barbacoa
+PRICE: $5.25
+DESCRIPTION:
+
+ITEM: Chicken Fajita
+PRICE: $4.50
+DESCRIPTION:
+
+ITEM: Chorizo
+PRICE: $4.50
+DESCRIPTION:
+
+ITEM: Lengua
+PRICE: $5.25
+DESCRIPTION:
+
+ITEM: Res
+PRICE: $4.50
+DESCRIPTION:
+
+
+SECTION: Tortas
+ITEM: Jamon con Queso
+PRICE: $4.99
+DESCRIPTION:
+
+ITEM: Pollo (Chicken Fajita)
+PRICE: $5.99
+DESCRIPTION:
+
+ITEM: Milanesa
+PRICE: $5.99
+DESCRIPTION:
+
+ITEM: Bistec
+PRICE: $5.99
+DESCRIPTION:
+
+ITEM: Carnitas
+PRICE: $5.99
+DESCRIPTION:
+
+ITEM: Chorizo
+PRICE: $5.99
+DESCRIPTION:
+
+ITEM: Al Pastor
+PRICE: $5.99
+DESCRIPTION:
+
+ITEM: Chorizo con Huevos
+PRICE: $5.99
+DESCRIPTION:
+
+ITEM: Aguacate con Queso
+PRICE: $5.99
+DESCRIPTION:
+
+
+SECTION: Fajitas
+ITEM: Fajita
+PRICE: $9.99
+DESCRIPTION: Steak or chicken with peppers and onions served with rice, beans and guacamole
+
+ITEM: Shrimp Fajita
+PRICE: $11.50
+DESCRIPTION: Shrimp with peppers and onions served with rice, beans and guacamole
+
+ITEM: Fajita Combo
+PRICE: $12.99
+DESCRIPTION: Steak, chicken and shrimp combo with rice, beans and guacamole
+
+
+SECTION: Desserts
+ITEM: Flan
+PRICE: $2.50
+DESCRIPTION:
+
+ITEM: Tres Leches
+PRICE: $2.50
+DESCRIPTION:

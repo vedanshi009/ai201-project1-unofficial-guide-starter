@@ -1,0 +1,65 @@
+SOURCE: Reddit
+TITLE: Excellent vegetarian food in South Florida (Fort Lauderdale trip experience)
+CATEGORY: Travel / Restaurant Recommendations
+
+------------------------------------------------------------
+
+SUMMARY:
+User describes a trip to South Florida (Fort Lauderdale area) and shares vegetarian/vegan restaurant recommendations.
+
+------------------------------------------------------------
+
+LOCATION:
+South Florida, Fort Lauderdale, Miami Beach area
+
+------------------------------------------------------------
+
+RESTAURANT: Planta Queen (Fort Lauderdale)
+URL: https://www.plantarestaurants.com/location/planta-fort-lauderdale/
+
+TYPE: Upscale vegan restaurant
+
+HIGHLIGHTS:
+- Vegan sushi (including dragon roll)
+- Tom yum / sweet corn dumplings
+- Bang Bang Broccoli
+- General’s Cauliflower
+
+REVIEW:
+Highly positive. User states vegan sushi was among the best they have ever had.
+
+------------------------------------------------------------
+
+RESTAURANT: SoBe Vegan
+URL: https://sobev.com/
+
+TYPE: Vegan burger and fries restaurant
+
+HIGHLIGHTS:
+- Vegan burgers
+- Fries
+- Instagram-style casual dining
+
+REVIEW:
+User describes it as surprisingly excellent, one of the best burgers they have had.
+
+------------------------------------------------------------
+
+ADDITIONAL NOTES:
+- Cuban coffee mentioned as highly enjoyable local beverage
+- User strongly recommends both restaurants for vegetarians/vegans visiting the area
+
+------------------------------------------------------------
+
+COMMUNITY RESPONSE SUMMARY:
+- Other users confirm Planta has multiple locations (including NYC)
+- Suggestion: Beyond Sushi in NYC for vegan sushi
+- Recommendation: Full Bloom (South Beach)
+- General sentiment: South Florida has strong vegetarian/vegan options
+
+------------------------------------------------------------
+
+KEY INSIGHT FOR RAG USE:
+- Plant-based fine dining options exist in South Florida
+- Vegan sushi is a recurring highlight
+- Region has strong vegetarian-friendly restaurant density
