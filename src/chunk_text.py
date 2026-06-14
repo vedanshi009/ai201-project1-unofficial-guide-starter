@@ -1,9 +1,24 @@
 """
-chunk_text.py — Chunking Pipeline
-Vegetarian Food RAG System
+chunk_text.py
 
-Reads:  data/processed/documents.jsonl   (output of ingest.py)
-Writes: data/processed/chunks.jsonl
+Generates embedding-ready chunks from the processed documents produced by
+ingest.py.
+
+Input:
+    data/processed/documents.jsonl
+
+Output:
+    data/processed/chunks.jsonl
+
+Each chunk contains:
+    - Parent document metadata
+    - Source information
+    - Chunk position
+    - Chunk text prepared for embedding
+
+The pipeline uses overlapping token windows and preserves menu boundaries
+where possible to improve retrieval quality.
+
 
 Chunk spec (from project plan):
   chunk_size : 300–450 tokens  → target 400 tokens
@@ -36,18 +51,15 @@ INPUT_FILE   = BASE_DIR / "processed" / "documents.jsonl"
 OUTPUT_FILE  = BASE_DIR / "processed" / "chunks.jsonl"
 
 # ─── Chunk parameters ────────────────────────────────────────────────────────
-# Reduced from 400→250 tokens to produce more chunks (was 41, need ≥50).
-# With 8 menus + 3 Reddit files averaging ~3500 chars each, 250-token chunks
-# yield ~70–90 total chunks — comfortably in the 50–200 target range.
-# Overlap kept at 60 tokens (bottom of spec range) so boundaries stay clean.
-# planning.md updated: chunk_size 250, overlap 60, reason: dataset size.
+# Chunk size and overlap are selected to balance semantic coherence and
+# retrieval efficiency. Overlap preserves context across chunk boundaries.
 DEFAULT_CHUNK_SIZE = 250   # tokens per chunk
 DEFAULT_OVERLAP    = 60    # overlap tokens
 MAX_CHUNK_TOKENS   = 310   # hard ceiling: 250 body + 20 metadata + 40 snap buffer
 
 # ─── Tokenizer ───────────────────────────────────────────────────────────────
-# cl100k_base is the tokenizer used by text-embedding-004 / GPT-4-class models.
-# Using it here ensures token counts during chunking match counts during embedding.
+# Use the same tokenizer family as the embedding models so token counts
+# remain consistent during chunking and embedding.
 TOKENIZER = tiktoken.get_encoding("cl100k_base")
 
 
@@ -63,8 +75,7 @@ def decode(tokens: list[int]) -> str:
     return TOKENIZER.decode(tokens)
 
 
-# ─── Metadata header builder ─────────────────────────────────────────────────
-
+# ─── Metadata Header Generation ──────────────────────────────────────────────
 def build_metadata_header(doc: dict, chunk_index: int) -> str:
     parts = [
         f"SOURCE: {doc['source_name']}",
@@ -82,10 +93,12 @@ def build_metadata_header(doc: dict, chunk_index: int) -> str:
 
 def _snap_to_item_boundary(tokens: list[int], pos: int, window: int = 30) -> int:
     """
-    Snap a token position forward to the nearest ITEM: line boundary
-    within ±window tokens, so chunks never split mid-item description.
-    Falls back to the original pos if no boundary found nearby.
-    """
+Adjust a token boundary to the nearest menu item separator.
+
+This helps keep individual menu items and their descriptions within
+the same chunk whenever possible, improving semantic retrieval.
+If no nearby boundary exists, the original position is returned.
+"""
     search_start = max(0, pos - window)
     search_end   = min(len(tokens), pos + window)
     candidate    = decode(tokens[search_start:search_end])
@@ -95,8 +108,7 @@ def _snap_to_item_boundary(tokens: list[int], pos: int, window: int = 30) -> int
     if not item_offsets:
         return pos  # no boundary nearby, keep original
 
-    # Convert char offset back to approximate token offset
-    # Pick the item boundary closest to (pos - search_start) in char space
+   # Convert the selected character position back into token space.
     target_char = len(decode(tokens[search_start:pos]))
     best_char   = min(item_offsets, key=lambda x: abs(x - target_char))
 
@@ -112,9 +124,11 @@ def chunk_text(
     overlap: int = DEFAULT_OVERLAP,
 ) -> list[str]:
     """
-    Split doc_text into overlapping token windows, snapping boundaries
-    to ITEM: lines where possible to avoid mid-description cuts.
-    """
+Split text into overlapping token-based chunks.
+
+Chunk boundaries are aligned with menu item separators when possible
+to avoid splitting item descriptions across multiple chunks.
+"""
     assert 150 <= chunk_size <= 450, f"chunk_size {chunk_size} out of range"
     assert 40  <= overlap    <= 100, f"overlap {overlap} out of range"
 
@@ -150,14 +164,12 @@ def chunk_text(
 
 def split_menu_by_section(text: str) -> list[str]:
     """
-    For menu files: split on SECTION: boundaries first so that each
-    semantic unit (a menu section with its items) is chunked together
-    rather than being sliced mid-section.
+Split menu documents into section-level units before chunking.
 
-    If a section is still too large it will be further split by chunk_text().
-    Sections under MIN_SECTION_TOKENS are merged with adjacent sections to
-    prevent tiny tail-end chunks (e.g. a 2-item Desserts section).
-    """
+Each section represents a coherent group of menu items, such as
+Appetizers or Desserts. Small sections are merged with adjacent
+sections to avoid producing extremely short chunks.
+"""
     MIN_SECTION_TOKENS = 40   # sections smaller than this get merged
 
     # Split on SECTION: lines but keep the delimiter
@@ -298,16 +310,11 @@ def run_chunking() -> list[dict]:
 
 def verify_overlap(doc_text: str, chunk_size: int = DEFAULT_CHUNK_SIZE, overlap: int = DEFAULT_OVERLAP):
     """
-    Sanity-check: given a document, find a phrase near the boundary between
-    chunk 0 and chunk 1, and confirm it appears in both chunks (proving overlap works).
+Utility function for validating chunk overlap behavior.
 
-    Run this manually on a sample document to validate the chunker.
-
-    Example:
-        from chunk_text import verify_overlap
-        sample = open("data/raw/menus/mayas.txt").read()
-        verify_overlap(sample)
-    """
+Checks that text near a chunk boundary is preserved in consecutive
+chunks and verifies that generated chunks remain within token limits.
+ """
     chunks = chunk_text(doc_text, chunk_size, overlap)
 
     assert len(chunks) >= 2, "Document too short to test overlap (needs at least 2 chunks)"
@@ -324,9 +331,8 @@ def verify_overlap(doc_text: str, chunk_size: int = DEFAULT_CHUNK_SIZE, overlap:
     print(f"  Present in chunk 0: {in_chunk_0}")
     print(f"  Present in chunk 1: {in_chunk_1}")
 
-    assert in_chunk_0, "Boundary phrase not found in chunk 0 — something is wrong"
-    assert in_chunk_1, "Overlap FAILED: boundary phrase not found in chunk 1"
-
+    assert in_chunk_0, "Boundary phrase missing from the first chunk."
+    assert in_chunk_1, "Expected overlap was not preserved."
     print("[verify] ✓ Overlap verified successfully")
 
     for i, chunk in enumerate(chunks):
