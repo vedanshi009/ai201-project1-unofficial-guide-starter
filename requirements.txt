@@ -1,11 +1,17 @@
+# ─── Chunking ─────────────────────────────────────────────────────────────────
+tiktoken==0.9.0
+
+# ─── Embeddings ───────────────────────────────────────────────────────────────
 sentence-transformers==3.4.1
+
+# ─── Vector store ─────────────────────────────────────────────────────────────
 chromadb>=0.6.0
+
+# ─── LLM backend (Groq — free, fast, no credit card) ─────────────────────────
 groq==0.15.0
+
+# ─── Environment / API key loading ───────────────────────────────────────────
 python-dotenv==1.0.1
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
-# streamlit>=1.40.0
-
-# Document ingestion — add if your documents/ folder contains .pdf files:
-# pdfplumber==0.11.4
+# ─── Query interface ──────────────────────────────────────────────────────────
+gradio>=6.9.0
