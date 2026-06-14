@@ -2,12 +2,12 @@
  
 A retrieval-augmented generation system that helps users (especially international students) find safe vegetarian meals at Tampa restaurants and identify hidden non-vegetarian ingredients.
  
----
 
 ## Domain
 
 This system covers vegetarian food discovery at real restaurants in Tampa, FL, with a focus on hidden ingredient warnings. The problem it solves is real: menus rarely list every ingredient, and common dishes at Thai, Indian, and Mexican restaurants often contain fish sauce, shrimp paste, meat broth, or gelatin without labeling it. Official restaurant websites and food apps don't flag these risks for vegetarians. The knowledge lives scattered across Reddit communities and menu databases — this system pulls it together into one place where you can ask a plain-language question and get a grounded answer.
----
+
+
 
 ## Document Sources
  
